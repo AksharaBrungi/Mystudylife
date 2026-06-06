@@ -1,0 +1,8 @@
+{
+  "name": "MyStudyLife",
+  "description": "A comprehensive student productivity platform for managing tasks, attendance, exams, and notes with an integrated AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
