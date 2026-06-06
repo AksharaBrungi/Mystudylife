@@ -37,5 +37,3 @@ A full-stack student productivity platform built with React, Vite, Express, and 
    npm run build
    npm start
    ```
-
-Developed with ❤️ using Google AI Studio.
